@@ -37,6 +37,9 @@ Authored custom DAX expressions to compute critical business health indicators b
 *   **Executive Financial & Product Performance Overview**
     <!-- ![Dashboard Overview](visuals/dashboard_main.png) -->
 
+    <img width="592" height="335" alt="Screenshot 2026-06-05 020548" src="https://github.com/user-attachments/assets/f6770013-626d-4b38-8ca2-5828ca6ac471" />
+
+
 ### Visual Hierarchy Principles Applied:
 *   **High-Impact KPI Cards:** Positioned across the primary top row to provide stakeholders with immediate clarity on baseline operational metrics (Total Revenue, Shipments, Net Profit Margins).
 *   **Geographic & Matrix Breakdowns:** Utilized map distributions and structural matrices to let regional managers instantly drill down from global trends into specific local store performances.
