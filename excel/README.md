@@ -7,6 +7,9 @@ This project transforms fragmented operational tracking sheets into a unified, r
 
 ---
 
+<img width="649" height="253" alt="Screenshot 2026-06-05 015709" src="https://github.com/user-attachments/assets/2a207b6c-9bba-4632-82a3-05e00104cb11" />
+
+
 ## 🛠️ Tech Stack & Analytical Pipeline
 *   **Analytics Platform:** Microsoft Excel (Advanced)
 *   **Data Architecture Engine:** Power Query & Excel Data Model (Power Pivot)
